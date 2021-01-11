@@ -3,6 +3,7 @@ run sudo ./update.sh
 to update the system files.
 After this you can do:
 retropie->retrorangepi->update retrorangepi   to update to hotfix1 (now the link is fixed)
+
 retropie->retropie setup
 update retropie script and these core packages
 	emulationstation
